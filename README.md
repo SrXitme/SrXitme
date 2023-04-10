@@ -12,9 +12,16 @@
 <li>🔶JS</li>
 
 </ul>
-<h2>In Progress...🏃
-</h2> 
 
+
+
+<h2>🏦🎲DATABASES</h2>
+<ul>
+<li>🐬MYSQL</li>
+</ul>
+
+
+<h2>In Progress...🏃</h2>
 <ul>
 <li>☕JAVA</li>
 <li>🟠LARAVEL</li>
