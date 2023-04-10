@@ -1,6 +1,8 @@
 <h1> Hi Peoples</h1>
-<img src="20230410_171501.gif">
+<h3>👨‍💻Dev Fullstack📚<h3>
 
+<img src="20230410_171501.gif">
+<p> 📱studying mobile development📖
 <hr>
 
 <h2> Languages </h2>
