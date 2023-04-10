@@ -8,6 +8,12 @@
 <li>🐍PYTHON</li>
 <li>🔶JS</li>
 
-
-
 </ul>
+<h2>In Progress...🏃
+</h2> 
+
+<ul>
+<li>☕JAVA</li>
+<li>🟠LARAVEL</li>
+</ul>
+
