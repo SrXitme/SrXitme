@@ -2,7 +2,7 @@
 <h3>👨‍💻Dev Fullstack📚<h3>
 
 <img src="20230410_171501.gif">
-<p> 📱studying mobile development📖
+  <p> Laravel In progress...</p>
 <hr>
 
 <h2> Languages </h2>
