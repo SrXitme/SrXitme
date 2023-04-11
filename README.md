@@ -13,7 +13,19 @@
 
 </ul>
 
+<h2>👨‍💻technologies</h2>
+<ul>
+<li>🟠CSS & HTML</li>
+<li>🟠GIT</li>
+</ul>
 
+
+<h2>👨‍💻Frameworks⚒️</h2>
+<ul>
+<li>🍊Laravel</li>
+<li>🟠BOOTSTRAP</li>
+
+</ul>
 
 <h2>🏦🎲DATABASES</h2>
 <ul>
