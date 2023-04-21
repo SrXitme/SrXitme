@@ -1,6 +1,9 @@
 <h1> Hi Peoples</h1>
 <h3>👨‍💻Dev Fullstack📚<h3>
-
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 <img src="20230410_171501.gif">
   <p> Laravel In progress...</p>
 <hr>
