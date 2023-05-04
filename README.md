@@ -1,5 +1,5 @@
 <h1> Hi Peoples</h1>
-<h3>👨‍💻Dev Fullstack📚<h3>
+<h3>👨‍💻Dev Backend📚<h3>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -32,8 +32,8 @@
 
 <h2>🏦🎲DATABASES</h2>
 <ul>
-<li>🐬MYSQL</li>
-  <li>learning Redis<li>
+<li><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></li>
+  <li><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"><li>
 </ul>
 
 
